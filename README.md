@@ -1,5 +1,5 @@
 
-##Project Name: Great Adventure
+###Project Name: Great Adventure
 
 ### Project Overview:
 "Final Adventure" is a Python-based interactive storytelling project. The primary goal is to create a "Choose Your Own Adventure" experience where users make meaningful choices that influence the progression of the story.
