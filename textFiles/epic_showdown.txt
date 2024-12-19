@@ -1,0 +1,4 @@
+A fierce battle ensues. Your skills are put to the ultimate test. Do you?
+    1. Unleash a powerful special ability to turn the tide.
+    2. Outmaneuver the enemy through tactical gameplay.
+    3. Exit Game.

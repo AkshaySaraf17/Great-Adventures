@@ -1,0 +1,4 @@
+The quest leads to a labyrinth of puzzles. Solve them to unlock the next stage. Do you?
+   1. Collaborate with other players to solve the puzzles.
+   2. Tackle the challenges solo, relying on your own skills.
+   3. Exit Game.

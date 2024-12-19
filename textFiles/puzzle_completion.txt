@@ -1,0 +1,4 @@
+Congratulations! The puzzles are solved, revealing a hidden gateway. What's your next move?
+    1. Enter the gateway and discover a new world.
+    2. Return to the social hub, considering other quests.
+    3. Exit Game.

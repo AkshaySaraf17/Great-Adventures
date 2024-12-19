@@ -1,0 +1,4 @@
+A mysterious portal appears, promising untold treasures. Enter or ignore the potential dangers?
+    1. Step through the portal and embrace the adventure.
+    2. Continue exploring the current area, avoiding unknown risks.
+    3. Exit Game.

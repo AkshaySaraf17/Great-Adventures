@@ -1,0 +1,4 @@
+Beyond the portal lies a realm of virtual treasures. As you collect them, a hidden enemy emerges. How do you confront them?
+    1. Stand your ground and face the enemy head-on.
+    2. Retreat and strategize before engaging in battle.
+    3. Exit Game.

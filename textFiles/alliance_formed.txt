@@ -1,0 +1,9 @@
+In the dimly lit labyrinth of despair, the trapped player contemplates two diverging paths to freedom.
+As the echoes of uncertainty reverberate, a flicker of hope emerges as fellow captives,
+liberated by the strength of their avatars, extend a hand of solidarity.
+The once solitary journey transforms into a collective endeavor, weaving a tale of alliance and shared destiny in the face of adversity.
+Together, they rise, their combined avatar abilities forging a formidable force against the entwining grasp of confinement.
+What do you do??
+    1. Trust your new allies and explore the unknown.
+    2. Go solo, unsure of the long-term reliability of your alliance.
+    3. Exit Game.

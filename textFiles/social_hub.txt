@@ -1,0 +1,4 @@
+The social hub buzzes with activity. A mysterious character offers a cryptic quest. Do you?
+   1. Accept the mysterious quest and follow the clues.
+   2. Decline and investigate the social hub for other opportunities.
+   3. Exit Game.

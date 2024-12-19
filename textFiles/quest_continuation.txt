@@ -1,0 +1,4 @@
+The mysterious quest continues, leading to an ancient virtual city. Do you?
+    1. Explore the city's secrets with determination.
+    2. Consider abandoning the quest, intrigued by other opportunities.
+    3. Exit Game.

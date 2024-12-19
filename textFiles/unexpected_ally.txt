@@ -1,0 +1,4 @@
+A fellow racer becomes an unexpected ally. Together, you uncover a hidden path. How do you proceed?
+   1. Trust your ally and take the new route.
+   2. Stick to the known track, wary of potential betrayals.
+   3. Exit game now.

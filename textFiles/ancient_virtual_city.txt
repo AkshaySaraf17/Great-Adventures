@@ -1,0 +1,4 @@
+The city holds ancient artifacts with the power to reshape the OASIS. How do you handle this newfound responsibility?
+    1. Safeguard the artifacts, using their power responsibly.
+    2. Experiment with the artifacts, curious about their full potential.
+    3. Exit Game.

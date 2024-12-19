@@ -1,0 +1,4 @@
+The racing track pulses with energy. A rival challenges you to a race. Do you?
+   1. Accept the challenge, eager for competition.
+   2. Decline and uncover secrets in the racing zone.
+   3. Exit Game.

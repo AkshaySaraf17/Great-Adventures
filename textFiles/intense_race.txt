@@ -1,0 +1,4 @@
+The race begins, and the shortcut is blocked. Adapt quickly or fall behind. Do you?
+   1. Maneuver through the crowd to find an alternative shortcut.
+   2. Stick to the main track, relying on your skills.
+   3. Exit Game now.

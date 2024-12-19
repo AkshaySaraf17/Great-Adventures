@@ -1,0 +1,4 @@
+While exploring, you uncover a shocking secret about your rival. How do you react?
+	1. Confront your rival about the revelation.
+	2. Keep the information to yourself and focus on the race.
+	3. Exit Game.

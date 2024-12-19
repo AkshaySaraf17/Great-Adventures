@@ -1,0 +1,4 @@
+A teammate betrays you during a critical moment. How do you respond?
+    1. Seek revenge and expose their actions to other players.
+    2. Choose forgiveness and focus on your own path.
+    3. Exit game now.
